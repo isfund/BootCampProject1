@@ -1,4 +1,37 @@
-# BootCampProject1
+# Home Purchasing Forecast 
+**Overview:** Studying the effects of including household income, student loan debt, mortgage rates and price of homes on homebuying rates in the U.S. between late 1900's and early/mid 2000's. By analyzing the effect of these key factors on the housing market we will be able to forecast a homebuying trend for a future decade based key factors that is most correlated with historic home purchases. 
+
+**Table of Contents (maybe)**
+1. Dependecies
+2. Installation Instructions
+3. Features
+4. Acknowledgements
+
+**Dependencies:**
+      1. Pandas
+      2. Matplotlib.pyplot 
+      3. Sklearn.linear_model 
+            LinearRegression 
+      4. Numpy 
+      5. Datetime 
+      6. Scipy.stats
+            Linregress 
+
+**Installation Instructrions:**
+      * Clone repository locally 
+      * Activate dev enviornment via Anoconda
+      * Open project with Jupyter Notebook 
+
+**Features**
+      Correlations between Homebuying and
+         1. Household Income 
+         2. Mortage Rates 
+         3. Student Loan Debt 
+         4. Price of Homes 
+**Acknowledgements**
+      Datasets were sourced from: 
+            *National Median Income: https://fred.stlouisfed.org/series/MEHOINUSA672N 
+
 
 #Isfund Akram Task : Housing Market Analysis with Student Loan Debt
 
