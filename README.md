@@ -8,29 +8,30 @@
 4. Acknowledgements
 
 **Dependencies:**
-      1. Pandas
-      2. Matplotlib.pyplot 
-      3. Sklearn.linear_model 
-            LinearRegression 
-      4. Numpy 
-      5. Datetime 
-      6. Scipy.stats
-            Linregress 
+1. Pandas
+2. Matplotlib.pyplot
+3. Sklearn.linear_model
+    LinearRegression 
+5. Numpy
+6. Datetime
+7. Scipy.stats
+   Linregress 
 
 **Installation Instructrions:**
-      * Clone repository locally 
-      * Activate dev enviornment via Anoconda
-      * Open project with Jupyter Notebook 
+* Clone repository locally
+* Activate dev enviornment via Anoconda
+* Open project with Jupyter Notebook 
 
 **Features**
-      Correlations between Homebuying and
-         1. Household Income 
-         2. Mortage Rates 
-         3. Student Loan Debt 
-         4. Price of Homes 
+Correlations between Homebuying and
+      1. Household Income
+      2. Mortage Rates
+      3. Student Loan Debt
+      4. Price of Homes 
 **Acknowledgements**
-      Datasets were sourced from: 
-            *National Median Income: https://fred.stlouisfed.org/series/MEHOINUSA672N 
+Datasets were sourced from: 
+* National Median Income: https://fred.stlouisfed.org/series/MEHOINUSA672N
+ 
 
 
 #Isfund Akram Task : Housing Market Analysis with Student Loan Debt
