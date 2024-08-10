@@ -30,7 +30,7 @@ Correlations between Homebuying and
       4. Price of Homes 
 **Acknowledgements**
 Datasets were sourced from: 
-* National Median Income: https://fred.stlouisfed.org/series/MEHOINUSA672N
+* 'MEHOINUSA672N.csv' : https://fred.stlouisfed.org/series/MEHOINUSA672N
  
 
 
