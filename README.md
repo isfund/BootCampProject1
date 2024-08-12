@@ -36,7 +36,7 @@ _Analysis includes the following steps:_
 * Activate dev enviornment via Anoconda
 * Open project with Jupyter Notebook 
 
-**Features**
+**Features:**
 Correlations between Homebuying and
       1. Household Income
       2. Mortage Rates
