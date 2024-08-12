@@ -38,10 +38,10 @@ _Analysis includes the following steps:_
 
 **Features:**
 Correlations between Homebuying and
-      1. Household Income
-      2. Mortage Rates
-      3. Student Loan Debt
-      4. Price of Homes 
+1. Household Income
+2. Mortage Rates
+3. Student Loan Debt
+4. Price of Homes 
       
 **Acknowledgements**
 Datasets were sourced from: 
