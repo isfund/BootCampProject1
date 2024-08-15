@@ -50,7 +50,7 @@ Datasets were sourced from:
 * `average_student_loan_debt.csv` : https://thecollegeinvestor.com/32031/average-student-loan-debt-by-year/
 * `MSPUS.csv` : https://fred.stlouisfed.org/series/MSPUS
 * Mortgage Rate Data: https://fred.stlouisfed.org/series/MORTGAGE30US
-* # of Homes Bought per year: https://www.census.gov/construction/nrs/historical_data/index.html
+* Number of Homes Bought per year: https://www.census.gov/construction/nrs/historical_data/index.html
 * average_student_loan_debt.csv:https://thecollegeinvestor.com/32031/average-student-loan-debt-by-year/
 
 
